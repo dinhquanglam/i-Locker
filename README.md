@@ -1,2 +1,8 @@
 # i-Locker
-The project of Amni, Lam and Kraiwich in THE 2022 SOUTH-EAST ASIA CIRCUIT AND SYSTEM SOCIETY HACKATHON (IEEE SEACAS 2022) organized in Viet Nam
+The project was built in THE 2022 SOUTH-EAST ASIA CIRCUIT AND SYSTEM SOCIETY HACKATHON (IEEE SEACAS 2022) organized in Viet Nam
+
+# Contributor:
+1. Dinh Quang Lam, VNU University of Engineering and Technology, Vietnam.
+2. Nur Amni Binti Zulfikri, Universiti Putra Malaysia, Malaysia.
+3. Kraiwich Satrapiphop, Kasetsart University, Thailand.
+
