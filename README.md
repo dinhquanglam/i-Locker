@@ -10,5 +10,11 @@ The project was built in THE 2022 SOUTH-EAST ASIA CIRCUIT AND SYSTEM SOCIETY HAC
 
 ## Introduction:
 
+## Module: 
+1. ESP32-C3-32S
+2. LCD with I2C Module
+3. LED 
+4. ......
+
 ## Features:
 
